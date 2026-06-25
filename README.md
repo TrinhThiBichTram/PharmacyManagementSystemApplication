@@ -6,5 +6,5 @@ Hệ thống quản lý nhà thuốc được xây dựng bằng **Java Spring B
 ## 2. Công nghệ sử dụng
 * Backend: Java 17, Spring Boot, Spring Data JPA.
 * Database: MySQL / SQL Server[cite: 1].
-* Testing: JUnit 5, Postman[cite: 1].
+* Testing: Postman[cite: 1].
 
